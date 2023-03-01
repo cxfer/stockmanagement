@@ -1,2 +1,4 @@
-welcome to the stock management system 
-create an account to join this big family
+Hey guys
+This is the stock management system that i have developed in java and mysql using Xampp server
+Feel free to update or you can download the zip file and run it locally
+Happy coding!
