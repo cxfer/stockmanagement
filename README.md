@@ -1,3 +1,3 @@
-# stockmanagement
-test
-it is developed in java netbeans
+# stock management system
+
+download zip file and import to netbeans to run it locally
